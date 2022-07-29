@@ -9,5 +9,4 @@ public class SqsQueueApplication {
     public static void main(String[] args) {
         SpringApplication.run(SqsQueueApplication.class, args);
     }
-
 }
